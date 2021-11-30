@@ -12,4 +12,4 @@
 
 ### 4. Create Model Architecture with Input layers as Embedding layers and output as a binary classifier
 
-### 5. Train and Predict
+### 5. Train and Predict 
